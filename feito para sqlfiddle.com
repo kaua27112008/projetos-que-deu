@@ -1,3 +1,16 @@
+quando entrar no site clicar em PostgreSQL
+
+
+
+
+
+
+
+
+
+
+
+
 CREATE TABLE genre ( 
   id SERIAL PRIMARY KEY,
   name VARCHAR(100)
